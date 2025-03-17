@@ -16,7 +16,8 @@ Domain Name Generator is a modern web application built with Next.js that genera
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  ![Screenshot_17-3-2025_17721_192 168 0 193](https://github.com/user-attachments/assets/dec94e81-c2ca-4ed6-827d-07655ded49ef)
+
+![Screenshot_17-3-2025_17721_192 168 0 193](https://github.com/user-attachments/assets/6fd42df4-7629-4efa-8e91-e14b1d76b444)
 
 </div>
 
